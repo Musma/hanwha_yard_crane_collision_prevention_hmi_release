@@ -1,0 +1,4 @@
+- feat: driving 값이 있는 경우 처리 추가
+- feat: 방위각 표시기 추가
+- feat: apply default crane specifications if server data is missing or zero
+- feat: add step angle and steps per revolution properties for crane calculations
